@@ -23,7 +23,7 @@
 
 #### git config: Configura usuário e senha no projeto local.
 
-1. --global: refere-fe ao nível de permissão do usuário configurado.
+1. --global: permissão a nível de usuário do SO. 
 2. user.email: user.email "exemplo_email@exemplo.com",  configura e-mail.
 3. user.name: user.name "exemplo-nome", configura nome de usuário.
 
